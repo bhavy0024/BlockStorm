@@ -119,6 +119,7 @@ BlockStorm/
 ├── Game.h
 ├── ScoreManager.h
 ├── highscore.txt
+├── .gitignore
 └── README.md
 ```
 
