@@ -99,6 +99,12 @@ g++ main.cpp -o BlockStorm
 BlockStorm.exe
 ```
 
+or
+
+```sh
+.\BlockStorm.exe
+```
+
 > **Note:** This project currently uses `windows.h` and `conio.h`, so it runs only on Windows.
 
 ## 5️⃣ Update to the Latest Version 🔄
